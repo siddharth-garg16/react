@@ -1,10 +1,10 @@
 .card{
-    width: 20vw;
+    width: 15vw;
     font-family: 'Kanit', sans-serif;
     font-size: 20px;
 }
 .card--image{
-    width: 20vw;
+    width: 15vw;
     border-radius: 20px;
 }
 .card--star{
