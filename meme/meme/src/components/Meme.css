@@ -30,3 +30,11 @@
 .meme--button:hover{
     opacity: 0.75;
 }
+.meme--image{
+    margin-block: 50px;
+    border: 1px solid black;
+    max-width: 70vw;
+}
+.content--wrapper{
+    text-align: center;
+}
